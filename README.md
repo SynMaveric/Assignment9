@@ -12,3 +12,4 @@ function ChangeText() {
 </script>
 
 </body>
+</html>
