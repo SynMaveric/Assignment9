@@ -1,1 +1,14 @@
 # Assignment9_Problem1
+<!DOCTYPE html>
+<html>
+<body>
+
+<p id="acknowledge" onclick="ChangeText()"> Hello World!</p>
+
+<script>
+function ChangeText() {
+    document.getElementById("acknowledge").innerHTML = "Good Night World";
+}
+</script>
+
+</body>
